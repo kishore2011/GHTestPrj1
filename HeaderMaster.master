@@ -1,0 +1,92 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeFile="HeaderMaster.master.cs"
+    Inherits="HeaderMaster" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head id="Head1" runat="server">
+    <title>Untitled Page</title>
+    
+    <link href="CustomStyles.css" rel="stylesheet" type="text/css" />
+</head>
+<body>
+    <form id="form1" runat="server">
+    <div>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            <table width="100%">
+                <tr>
+                    <td align="center" bgcolor="#CCCCFF">
+                        <asp:Label ID="lblName" runat="server" CssClass="MasterPageTitle" 
+                            BackColor="#C1C1FF">Call Center</asp:Label>
+                    </td>
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder2" runat="server">
+        
+        
+            <p>
+                <br />
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+            <p>
+            </p>
+        
+        
+        </asp:ContentPlaceHolder>   
+        
+        <asp:ContentPlaceHolder ID="ContentPlaceHolder3" runat="server">
+            <table width="100%">
+                <tr>
+                    <td align="center" bgcolor="#CCCCFF">
+                        <asp:Label ID="Label1" runat="server" CssClass="LabelFooter" 
+                            BackColor="#C1C1FF">Copy rights reserved@Antfarm IP Deliveries</asp:Label>
+                    </td>
+                </tr>
+            </table>
+        </asp:ContentPlaceHolder>
+        
+    </div>
+    </form>
+</body>
+</html>

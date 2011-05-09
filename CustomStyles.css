@@ -1,0 +1,154 @@
+﻿/* CSS Document */
+.tabSiteNavigation
+{
+}
+.SummaryTable
+{
+}
+.tabSiteTabs
+{
+}
+.LabelHeading
+{
+	font-size: 20px;
+	font-family: verdana;
+	font-weight: bolder;
+	text-align: center;
+	color: #333333;
+}
+
+.MasterPageTitle
+{
+	font-size: 24px;
+	font-family: verdana;
+	font-weight: bolder;
+	text-align: center;
+	color: #333333;
+}
+
+.LabelFooter
+{
+	font-size: 14px;
+	font-family: verdana;
+	font-weight: bolder;
+	text-align: center;
+}
+
+.LabelName
+{
+	font-size: 14px;
+	font-family: verdana;	
+	text-align: center;
+	margin-left: 0px;
+}
+.LabelBigHeading
+{
+	font-size: 20px;
+	font-family: verdana;
+	text-align: center;
+	margin-left: 0px;
+	color: #006666;
+}
+.ErrorMsg
+{
+	font-size: 12px;
+	font-family: verdana;
+	text-align: center;
+	color: #FF0000;
+}
+.RequiredFiledErrorMsg
+{
+	font-size: 12px;
+	font-family: verdana;
+	text-align: center;
+	color: #FF0000;
+}
+
+.RadioButtonText
+{
+	font-size: 14px;
+	font-family: verdana;	
+}
+
+.TreeViewText
+{
+	font-size: 16px;
+	font-family: verdana;	
+}
+
+.gridRow2
+{
+}
+.gridRowSelected
+{
+}
+itemDetail
+{
+}
+body 
+{
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+}
+#test
+{
+	font-size: 14px;
+	font-family: verdana;	
+	background-color:Blue;
+	font-weight: bolder;
+	font-style:oblique;   
+}
+.text {
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:11px;
+color:#666666;
+font-weight:bold;
+}
+.head-Big {
+font-family:Arial, Helvetica, sans-serif;
+font-size:18px;
+font-weight:bold;
+color:#000000;
+}
+.labeltitlefont {
+	font-size: 14px;
+	font-family: verdana;
+	color: #006699;
+	font-weight: bolder;
+}
+.labelheaderfont {
+	font-size: 10px;
+	font-family: verdana;
+	color: #006699;
+	font-weight: normal;
+}
+.labelfont {
+	font-size: 12px;
+	font-family: Verdana;
+	font-weight: normal;
+	color: Navy;
+}
+.textfont {
+	font-size: 12px;
+	font-family: verdana;	
+}
+.buttontext {
+	font-size: 12px;
+	font-family: verdana;
+	background-color: #CCCCCC;
+	color: #000000;
+	}
+.gridtext {
+	font-size: 10px;
+	font-family: verdana;
+}
+
+.errorlabel
+{
+	font-size: 12px;
+	font-family: verdana;
+	color: #FF0000;
+}body {
+}
